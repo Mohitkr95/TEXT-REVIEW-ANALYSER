@@ -4,11 +4,11 @@ This project is based on Natural Language Processing and with the help of this N
 
 ![image](https://user-images.githubusercontent.com/37563886/70158559-76817300-16dd-11ea-8c5b-f06c23874dd3.png)
 
-# INTRODUCTION TO NATURAL LANGUAGE PROCESSING
+# INTRODUCTION TO NATURAL LANGUAGE PROCESSING (NLP)
 
 Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software. The study of natural language processing has been around for more than 50 years and grew out of the field of linguistics with the rise of computers.
 
-![image](https://user-images.githubusercontent.com/37563886/70159398-d6c4e480-16de-11ea-8b4a-21c279a852d6.png)
+![image](https://user-images.githubusercontent.com/37563886/70159716-5f438500-16df-11ea-9460-dcd5902d3dae.png)
 
 # Natural Language
 
